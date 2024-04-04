@@ -3,7 +3,7 @@
 
 
 ### Autor 
-[<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br><sub>Gabriel Kalebe Dos Santos Sousa</sub>](https://github.com/gkalebe) 
+[<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br> <sub>Gabriel Kalebe Dos Santos Sousa</sub>](https://github.com/gkalebe) 
 
 
 ### Proposta do Desafio
